@@ -5,4 +5,8 @@
 ## Technologies used
    Html
    Css
-   
+## setup instruction and installation
+   clone this repository to a location in your file system 
+## Licence
+   **MIT**
+   copyright (c) 2022
