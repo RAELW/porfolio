@@ -3,8 +3,9 @@
 ## Description
    This portfolio shows about me,my project ,experience and my contact
 ## Technologies used
-   Html
-   Css
+Html 
+Css
+   
 ## setup instruction and installation
    clone this repository to a location in your file system 
 ## Licence
